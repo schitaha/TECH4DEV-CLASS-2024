@@ -7,4 +7,4 @@ This repository is dedicated to assignments and projects related to the Women Te
 - **Email:** [SarahChitaha@womentechsters.org](mailto:SarahChitaha@womentechsters.org)
 
 ## Folders
-[December 2023 Individual Assignment](https://github.com/Chitaha/womentechsters2024/tree/main/December%202023)
+[December 2023 Individual Assignment](https://github.com/schitaha/TECH4DEV-CLASS-2024/tree/main/sarahchitahaDec2023)
